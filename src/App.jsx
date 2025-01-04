@@ -4,12 +4,12 @@ import { useEffect, useState } from 'react';
 import SingleCard from './components/SingleCard';
 
 const cardImages = [
-  {"src": "../public/img/hmar1.jpeg", matched: false },
-  {"src": "../public/img/hmar2.png", matched: false },
-  {"src": "../public/img/hmar3.png", matched: false },
-  {"src": "../public/img/hmar4.png", matched: false },
-  {"src": "../public/img/hmar5.png", matched: false },
-  {"src": "../public/img/hmar6.png", matched: false },
+  {"src": "/img/hmar1.jpeg", matched: false },
+  {"src": "/img/hmar2.png", matched: false },
+  {"src": "/img/hmar3.png", matched: false },
+  {"src": "/img/hmar4.png", matched: false },
+  {"src": "/img/hmar5.png", matched: false },
+  {"src": "/img/hmar6.png", matched: false },
 ]
 
 function App() {
